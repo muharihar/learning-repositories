@@ -1,1 +1,1 @@
-# CYBOK: The Cyber Security Body Of Knowledge
+# CyBOK: The Cyber Security Body Of Knowledge
